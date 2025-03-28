@@ -75,12 +75,16 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
+        },
+        {
+            text: 'Download theme',
+            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
-        
+    ],
     socialLinks: [
         {
-            text: 'LinKedIn',
-            href: 'https://linkedin.com/in/dony-rivera-salazar'
+            text: 'linkedin',
+            href: 'www.linkedin.com/in/dony-rivera-salazar'
         },
         {
             text: 'Instagram',
